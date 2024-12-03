@@ -2,7 +2,7 @@ public class variables
 {
 	public static void main(String[] args)
 	{
-		boolean bool_data;	// true of flase
+		boolean bool_data;	// true or flase
 		byte byte_data;		// 1byte integer
 		short short_data;	// 2byte integer
 		int int_data;		// 4byte integer
